@@ -1,5 +1,5 @@
 <div align = "center">
-<img src = "https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=Minseok%20Kim&fontColor=5A639C&fontSize=90&fontAlign=62&fontAlignY=32&desc=kms278711&descSize=25&descAlign=85&descAlignY=50" />
+<img src = "https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Minseok%20Kim&reversal=false&textBg=false&fontAlign=50&desc=kms278711&descAlign=69" />
 </div>
 <br>
 
@@ -15,7 +15,7 @@
 
 <p align="center">
 안녕하세요.<br>
-제 이름은 1인분부터 주문가능한 BE 개발자 김민석입니다.<br>
+1인분부터 주문가능한 BE 개발자 김민석입니다.<br>
 SSAFY 10기 수료 후 취업준비에 힘쓰고 있습니다!<br> 
 많이 배운만큼 나누고 힘쓸 수 있는 개발자가 되고 싶습니다!<br>
 </p>
@@ -64,8 +64,6 @@ SSAFY 10기 수료 후 취업준비에 힘쓰고 있습니다!<br>
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kms278711&theme=nord_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kms278711&layout=compact)
 
 
 ![](https://github.com/kms278711/github-stats-transparent/blob/output/generated/overview.svg)
