@@ -1,5 +1,5 @@
 <div align = "center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=Minseok%20Kim&fontColor=5A639C&fontSize=90&fontAlign=62&fontAlignY=32&desc=kms278711&descSize=25&descAlign=85&descAlignY=50)
+<img src = "https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=Minseok%20Kim&fontColor=5A639C&fontSize=90&fontAlign=62&fontAlignY=32&desc=kms278711&descSize=25&descAlign=85&descAlignY=50" />
 </div>
 <br>
 
