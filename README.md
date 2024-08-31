@@ -14,10 +14,10 @@
 <br>
 
 <p align="center">
-안녕하세요.<br>
-1인분부터 주문가능한 BE 개발자 김민석입니다.<br>
-현대 오토에버에서 BE 개발자로 힘쓰고 있습니다.<br> 
-배운만큼 나누고 힘쓸 수 있는 개발자가 되고 싶습니다!<br>
+Hello!<br>
+This is Min-seok Kim, a BE developer who can fully handle a one-person workload.<br>
+I am working as a backend developer at Hyundai AutoEver.<br> 
+I strive to be a developer who can share what I've learned and contribute effectively!<br>
 </p>
 
 <br>
