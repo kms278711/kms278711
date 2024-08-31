@@ -16,7 +16,7 @@
 <p align="center">
 안녕하세요.<br>
 1인분부터 주문가능한 BE 개발자 김민석입니다.<br>
-현대 오토에버에서 BE 개발자로 힘쓰고 있습니다.!<br> 
+현대 오토에버에서 BE 개발자로 힘쓰고 있습니다.<br> 
 배운만큼 나누고 힘쓸 수 있는 개발자가 되고 싶습니다!<br>
 </p>
 
@@ -46,7 +46,6 @@
 <p align="center" display="inline-block">
     <img src="https://img.shields.io/badge/fast api-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
     <img src="https://img.shields.io/badge/apache kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-    <img src="https://img.shields.io/badge/fast api-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
     <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
     <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"/>
     <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
